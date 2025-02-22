@@ -1,0 +1,11 @@
+Package: com.kuyoios.kgvn
+Name: KuyoIOS
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm64
+Description:
+SileoDepiction:
+Maintainer:  Kuyo Katashi
+Author:  Kuyo Katashi
+Section: Games
+Homepage:
